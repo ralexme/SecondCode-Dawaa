@@ -1,6 +1,6 @@
 #######
 
-@ The normal, working project by Dawaa.
+@ The normal, working project by Dawaa (now ralexme)
 
 @ There are a lot of not normal solutions.
 
